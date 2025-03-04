@@ -8,10 +8,10 @@
 
 The repository is organized into subject-based folders for easy navigation:
 
-- **📁 DB** – Database-related tasks, SQL queries, and database projects.
-- **📁 Web** – Web development tasks, including frontend and backend exercises.
-- **📁 DS** – Data Structures including lab tasks and problem-solving exercises.
-- **📁 SE** – Software Engineering exercises, UML diagrams, and design principles.
+- **📁 Data Structures - CS214**: Data Structures including lab tasks and problem-solving exercises.
+- **📁 Introduction to Database Systems - IS211**: Database-related tasks, SQL queries, and database projects.
+- **📁 Introduction to Software Engineering - CS251**: Software Engineering exercises, UML diagrams, and design principles.
+- **📁 Web Technology - IS231**: Web development tasks, including frontend and backend exercises.
 
 ---
 

@@ -1,4 +1,4 @@
-# 🌐 Web Technology Tasks.
+# 🌐 Web Technology - IS231
 
 📌 This folder contains tasks related to **Web Development**, covering both **Frontend** and **Backend** technologies.
 
@@ -15,10 +15,10 @@
 
 1. **Frontend Tasks**: Before Midterm.
    - <details><summary>Section 1</summary>
-     <center>
-     <img src="./img/task1/studentLogin.png" width="80%">
-     <img src="./img/task1/registration.png" width="80%">
-    </center>
+      <div align="center">
+        <img src="./img/task1/studentLogin.png" width="75%">
+        <img src="./img/task1/registration.png" width="75%">
+      </div>
    </details>
 
 2. **Backend Tasks**: After Midterm.

@@ -1,0 +1,30 @@
+# 🧮 Data Structures - CS214
+
+📌 This folder contains tasks related to **Data Structures**, including implementations, problem-solving exercises, and algorithmic challenges.  
+
+---
+
+## 🛠️ Topics Covered  
+
+- **Algorithms**: Sorting, Searching.  
+- **Basic Data Structures**: Arrays, Linked Lists, Stacks, Queues.  
+- **Advanced Data Structures**: Trees, Graphs, Heaps.  
+
+---
+
+## 📝 Tasks  
+   
+   - **Section 1**: How to do Bubble Sort Code ??!
+
+---
+
+## 🚀 How to Use  
+1. Navigate to the specific task or project folder.  
+2. Follow the instructions provided in the respective README files.  
+
+---
+
+## 🤝 Contribution  
+Contributions are welcome! If you have additional tasks, improvements, or resources, feel free to:  
+- Open an issue to suggest changes.  
+- Submit a pull request with your contributions.  
