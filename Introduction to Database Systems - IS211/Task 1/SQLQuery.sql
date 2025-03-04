@@ -1,4 +1,5 @@
 CREATE DATABASE University;
+USE University;
 
 -- DEPARTMENT Table
 CREATE TABLE Department(
