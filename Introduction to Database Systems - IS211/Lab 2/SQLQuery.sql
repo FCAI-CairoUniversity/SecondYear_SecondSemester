@@ -1,10 +1,15 @@
+-- Author(s): Mohammed Atef & George Malak.
+-- Date: March 6, 2025.
+-- Lab: 2.
+-- Course: Introduction to Database Systems - IS211.
+
 CREATE DATABASE University;
 USE University;
 
 -- DEPARTMENT Table
 CREATE TABLE Department(
     DeptCode VARCHAR(5) NOT NULL PRIMARY KEY ,
-    Name VARCHAR(15) NOT NULL,
+    Name VARCHAR(50) NOT NULL,
 );
 
 -- Course Table
@@ -46,3 +51,26 @@ ALTER TABLE Registered
 ADD FOREIGN KEY (SSN) REFERENCES Student (SSN);
 ALTER TABLE Registered
 ADD FOREIGN KEY (CrsCode) REFERENCES Course (CrsCode);
+
+-- Insert Students and Set Department
+INSERT INTO Student(SSN, Name, Age, City) VALUES (1, 'Ali', 19, 'Cairo');
+INSERT INTO Student VALUES (2, 'Wafaa', 19, 'Cairo', null);
+
+INSERT INTO Department VALUES('IS', 'Information System');
+INSERT INTO Student VALUES (3, 'Wafaa', 19, 'Cairo', 'IS');
+
+INSERT INTO Department VALUES('CS', 'Computer Science');
+INSERT INTO Student VALUES (4, 'Atef', 19, 'Alexandria' , 'CS');
+
+-- Updata Student's Data
+UPDATE Student
+SET Name = 'Ahmed'
+Where SSN = 1;
+
+UPDATE Student
+SET Name = 'Ali', Age = 18
+Where SSN = 2;
+
+-- Delete Student
+DELETE from Student
+Where SSN = 4;

@@ -1,9 +1,10 @@
 /*
  * Author(s): Mohammed Atef & George Malak.
  * Date: March 4, 2025.
- * Section: 1.
+ * Lab & Section: 1.
  * Course: Data Structure - CS214.
 */
+
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;

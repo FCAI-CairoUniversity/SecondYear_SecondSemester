@@ -4,18 +4,18 @@
 
 ---
 
-## 🛠️ Technologies Covered  
+## 🛠️ Technologies Covered
 
 - **Relational Databases.**
 - **Query Language.**
 
 ---
 
-## 📝 Tasks and Assignments  
+## 📝 Tasks
 
-   - <details><summary>Section 1</summary>
+   - <details><summary>Lab 1</summary>
+   
         Consider the following schema of database “University” :
-        
         - Student (<u>**SSN**</u>, Name, City, Age, Major).
         - Course (<u>**CrsCode**</u>, Name).
         - Registered (<u>**SSN**</u>, <u>**CrsCode**</u>, Semester, Year).
@@ -30,17 +30,27 @@
         - Add PK to Student table.
         - Add FK Constraint to Student table.
         - Add PK and FK constraints to Registered Table.
+        
+   </details>
+   
+   - <details><summary>Lab 2</summary>
+   
+        We are using the section's code and adding the following SQL operations:
+        - Insert Students and Set Department.
+        - Update Student's Data.
+        - Delete Student.
+        
    </details>
 
 ---
 
-## 🚀 How to Use  
-1. Navigate to the specific task or project folder.  
-2. Follow the instructions provided in the respective README files.  
+## 🚀 How to Use
+1. Navigate to the specific task or project folder.
+2. Follow the instructions provided in the respective README files.
 
 ---
 
-## 🤝 Contribution  
-Contributions are welcome! If you have additional tasks, improvements, or resources, feel free to:  
-- Open an issue to suggest changes.  
+## 🤝 Contribution
+Contributions are welcome! If you have additional tasks, improvements, or resources, feel free to:
+- Open an issue to suggest changes.
 - Submit a pull request with your contributions.

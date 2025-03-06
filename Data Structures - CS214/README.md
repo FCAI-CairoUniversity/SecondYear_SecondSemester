@@ -14,7 +14,7 @@
 
 ## 📝 Tasks  
    
-   - **Section 1**: How to do Bubble Sort Code ??!
+   - **Lab & Section 1**: How to do Bubble Sort Code ??!
 
 ---
 

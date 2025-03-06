@@ -14,7 +14,7 @@
 ## 📝 Tasks and Assignments
 
 1. **Frontend Tasks**: Before Midterm.
-   - <details><summary>Section 1</summary>
+   - <details><summary>Lab 1</summary>
       <div align="center">
         <img src="./img/task1/studentLogin.png" width="75%">
         <img src="./img/task1/registration.png" width="75%">
@@ -26,13 +26,13 @@
 
 ---
 
-## 🚀 How to Use  
-1. Navigate to the specific task or project folder.  
-2. Follow the instructions provided in the respective README files.  
+## 🚀 How to Use
+1. Navigate to the specific task or project folder.
+2. Follow the instructions provided in the respective README files.
 
 ---
 
-## 🤝 Contribution  
-Contributions are welcome! If you have additional tasks, improvements, or resources, feel free to:  
-- Open an issue to suggest changes.  
+## 🤝 Contribution
+Contributions are welcome! If you have additional tasks, improvements, or resources, feel free to:
+- Open an issue to suggest changes.
 - Submit a pull request with your contributions.
