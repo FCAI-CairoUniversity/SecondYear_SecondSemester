@@ -16,8 +16,8 @@
 1. **Frontend Tasks**: Before Midterm.
    - <details><summary>Lab 1</summary>
       <div align="center">
-        <img src="./img/task1/studentLogin.png" width="75%">
-        <img src="./img/task1/registration.png" width="75%">
+        <img src="./img/Lab 1/studentLogin.png" width="85%">
+        <img src="./img/Lab 1/registration.png" width="85%">
       </div>
    </details>
 

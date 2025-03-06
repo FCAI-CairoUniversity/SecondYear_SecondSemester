@@ -15,17 +15,17 @@
 
    - <details><summary>Lab 1</summary>
    
-        Consider the following schema of database “University” :
+     Consider the following schema of database “University” :
         - Student (<u>**SSN**</u>, Name, City, Age, Major).
         - Course (<u>**CrsCode**</u>, Name).
         - Registered (<u>**SSN**</u>, <u>**CrsCode**</u>, Semester, Year).
         - Department (<u>**DeptCode**</u>, Name).
         
-        Write SQL DDL statement for declaring the University Database and relations. Specify appropriate keys and referential integrity constraints.
+     Write SQL DDL statement for declaring the University Database and relations. Specify appropriate keys and referential integrity constraints.
         
-        **Note that:** you must ensure that the Age of student cannot be below 18 years.
+     **Note that:** you must ensure that the Age of student cannot be below 18 years.
         
-        And Do This Operations:
+     And Do This Operations:
         - Create Databases and Tables.
         - Add PK to Student table.
         - Add FK Constraint to Student table.
@@ -35,7 +35,7 @@
    
    - <details><summary>Lab 2</summary>
    
-        We are using the section's code and adding the following SQL operations:
+     We are using the section's code and adding the following SQL operations:
         - Insert Students and Set Department.
         - Update Student's Data.
         - Delete Student.
