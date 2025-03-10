@@ -1,6 +1,6 @@
-# 📚 Second Year, Second Semester Tasks.
+# 📚 Second Year, Second Semester.
 
-📌 A comprehensive collection of tasks and assignments covering **Database, Web Development, Data Structures, and Software Engineering**.
+📌 A comprehensive collection of tasks and lectures covering **Database, Web Development, Data Structures, and Software Engineering**.
 
 ---
 
@@ -17,7 +17,7 @@ The repository is organized into subject-based folders for easy navigation:
 
 ## 🛠️ How to Use
 1. Navigate to the relevant subject folder.
-2. Explore the tasks, assignments, and projects.
+2. Explore the tasks, lectures, and projects.
 3. Refer to the README files within each folder for specific instructions.
 
 ---
