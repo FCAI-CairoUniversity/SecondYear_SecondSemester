@@ -1,0 +1,31 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   scroll-behavior: smooth;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    h1 {
+        text-align: center;
+        margin: 35px 0px;
+    }
+    .buttons {
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+    }
+}
+
+.screenResult {
+    border: blue 5px solid;
+    max-width: 75%;
+    min-height: 200px;
+    min-width: 200px;
+    margin: 0 auto;
+}
