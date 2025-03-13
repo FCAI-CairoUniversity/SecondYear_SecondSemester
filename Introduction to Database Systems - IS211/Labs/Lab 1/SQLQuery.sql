@@ -1,25 +1,30 @@
--- Author(s): Mohammed Atef.
--- Date: February 27, 2025.
--- Lab: 1.
--- Course: Introduction to Database Systems - IS211.
+/* 
+ * Author(s): Mohammed Atef.
+ * Date: February 27, 2025.
+ * Lab: 1.
+ * Course: Introduction to Database Systems - IS211.
+*/
 
+-- Create University Database:
 CREATE DATABASE University;
+
+-- You should select University database before creating tables:
 USE University;
 
--- Department Table
+-- Create Department Table
 CREATE TABLE Department(
     DeptCode VARCHAR(5) NOT NULL PRIMARY KEY ,
     Name VARCHAR(15) NOT NULL,
 );
 
--- Course Table
+-- Create Course Table
 CREATE TABLE Course(
     CrsCode SMALLINT NOT NULL,
     Name VARCHAR(45) UNIQUE,
     PRIMARY KEY (CrsCode)
 );
 
--- Student Table
+-- Create Student Table
 CREATE TABLE Student(
     SSN INT NOT NULL,
     Name VARCHAR(45),

@@ -41,6 +41,14 @@
         - Delete Student.
         
    </details>
+   
+   - <details><summary>Lab 3</summary>
+      
+      In this lab, we explore various SQL queries using the Northwind database. After executing the `Northwind.sql` file and selecting the database, we perform fundamental SQL operations, including selecting specific columns, filtering data with conditions, and retrieving distinct values.
+      
+      The lab also covers SQL joins, such as `INNER JOIN`, `FULL OUTER JOIN`, and `CROSS JOIN`, to combine data from multiple tables like `Products`, `Categories`, and `Suppliers`. Additionally, we insert new records into tables and solve a specific task that retrieves supplier information along with corresponding product categories, despite the absence of a direct foreign key relationship between `Suppliers` and `Categories`.
+
+   </details>
 
 ---
 
