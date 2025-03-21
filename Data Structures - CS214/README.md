@@ -16,6 +16,7 @@
    
    - **Lab & Section 1**: How to do Bubble Sort Code ??!
    - **Lab & Section 2**: How to do Quick Sort Code ??!
+   - **Lab & Section 3**: How to do Binary Search Code ??!
 
 ---
 

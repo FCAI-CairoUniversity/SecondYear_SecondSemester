@@ -49,6 +49,14 @@
       The lab also covers SQL joins, such as `INNER JOIN`, `FULL OUTER JOIN`, and `CROSS JOIN`, to combine data from multiple tables like `Products`, `Categories`, and `Suppliers`. Additionally, we insert new records into tables and solve a specific task that retrieves supplier information along with corresponding product categories, despite the absence of a direct foreign key relationship between `Suppliers` and `Categories`.
 
    </details>
+   
+   - <details><summary>Lab 4</summary>
+      
+      In this lab, we work with the **Northwind** database by executing SQL queries to extract meaningful insights. After running the `Northwind.sql` file and selecting the database, we perform various operations such as filtering data, using set operations (`EXCEPT`, `INTERSECT`, `UNION`), and applying aggregate functions (`COUNT`, `SUM`, `AVG`, `MAX`).
+
+      We also explore SQL joins to retrieve data from multiple tables like `Orders`, `Products`, and `Suppliers`. Additionally, we complete a specific task that identifies **customers with at least 15 orders after 1996**, retrieving their total orders, last order date, and average unit price, while filtering results and sorting by order count in descending order.
+
+   </details>
 
 ---
 

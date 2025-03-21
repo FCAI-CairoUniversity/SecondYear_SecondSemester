@@ -1,7 +1,7 @@
 /*
  * Author(s): Mohammed Atef & George Malak.
- * Date: March 11, 2025.
- * Lab & Section: 2.
+ * Date: March 18, 2025.
+ * Lab & Section: 3.
  * Course: Data Structure - CS214.
 */
 
@@ -34,14 +34,42 @@ void quickSort(T data[], int left, int right) {
     }
 }
 
-int main() {
-    int arr[] = {20,1, 15,6, 2, 5, 3, 4,0,3};
-    int size = sizeof (arr) / sizeof (arr[0]);
+void fun() {
+    int size1, size2;
 
-    quickSort(arr, 0, size-1);
-
-    for (int i = 0; i < size; ++i) {
-        cout << arr[i] << " \n"[i == size - 1];
+    cout << "Enter the size for arr 1 :";
+    cin >> size1;
+    int arr1[size1];
+    for (int i = 0; i < size1; ++i) {
+        cout << "Enter element " << i + 1 << " for arr 1 :";
+        cin >> arr1[i] ;
     }
+
+    cout << "Enter the size for arr 2 :";
+    cin >> size2;
+    int arr2[size2];
+    for (int i = 0; i < size2; ++i) {
+        cout << "Enter element " << i + 1 << " for arr 2 :";
+        cin >> arr2[i];
+    }
+
+    quickSort(arr1, 0, size1 -1);
+    quickSort(arr2, 0, size2 -1);
+
+    int ind1 = 0 , ind2 = 0;
+    cout << "Common elements : " ;
+    while(ind1 < size1 && ind2 < size2){
+        if(arr1[ind1] == arr2[ind2]){
+            cout << arr1[ind1] << " \n"[ind1 == size1-1 || ind2 == size2-1];
+            ind1++; ind2++;
+        }
+        else if (arr1[ind1] < arr2[ind2]) ind2++;
+        else ind1++;
+    }
+}
+
+int main() {
+    int t = 1;
+    while (t--) fun();
     return 0;
 }

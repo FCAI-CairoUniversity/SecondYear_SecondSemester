@@ -26,6 +26,12 @@
         <img src="./img/Lab 2/preview.png" width="90%">
       </div>
    </details>
+   
+   - <details><summary>Lab 3</summary>
+      <div align="center">
+        <img src="./img/Lab 3/preview.png" width="90%">
+      </div>
+   </details>
 
    
 

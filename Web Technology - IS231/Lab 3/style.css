@@ -1,0 +1,65 @@
+/* ------------------------ TASK 1 ------------------------ */
+
+/*
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: red;
+    border: 1px dotted;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    background-color: yellow;
+    color: blue;
+    border: blue 1px dotted;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+*/
+
+/* ------------------------ TASK 2 ------------------------ */
+
+/*
+div {
+    background-color: lightgrey;
+    border: green 15px solid;
+    padding-top: 50px;
+    width: 500px;
+    margin: 100px 50px;
+}
+*/
+
+/* ------------------------ TASK 3 ------------------------ */
+
+/* body {
+    background-image: url('./assets/img/FCAI.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+} */
+
+/* ------------------------ TASK 4 ------------------------ */
+
+/*
+a:hover {
+    background-color: aqua;
+}
+
+div {
+    width: 40%;
+    margin: 0 auto;
+    background-color: beige;
+    padding: 25px;
+    img {
+        float: right;
+    }
+}
+*/
