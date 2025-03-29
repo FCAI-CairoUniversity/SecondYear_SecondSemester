@@ -32,6 +32,12 @@
         <img src="./img/Lab 3/preview.png" width="90%">
       </div>
    </details>
+   
+   - <details><summary>Lab 4</summary>
+      <div align="center">
+        <img src="./img/Lab 4/preview.png" width="90%">
+      </div>
+   </details>
 
    
 

@@ -57,6 +57,14 @@
       We also explore SQL joins to retrieve data from multiple tables like `Orders`, `Products`, and `Suppliers`. Additionally, we complete a specific task that identifies **customers with at least 15 orders after 1996**, retrieving their total orders, last order date, and average unit price, while filtering results and sorting by order count in descending order.
 
    </details>
+   
+   - <details><summary>Lab 5</summary>
+      
+      In this lab, we work with the **Northwind** database by executing SQL queries to retrieve and analyze data efficiently. After running the `Northwind.sql` file and selecting the database, we perform various operations, including filtering, subqueries, and optimization techniques.
+
+      We retrieve employees in the **UK** with the same job title as **Janet or Steven**, list customers with orders shipped to the **UK**, and find products always ordered in quantities greater than **10**. Additionally, we identify employees hired before all **Sales Managers** or **Inside Sales Coordinators** and optimize a query to fetch supplier contact names for products with a **unit price below 7**.
+
+   </details>
 
 ---
 
