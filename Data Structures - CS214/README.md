@@ -18,7 +18,8 @@
    - **Lab & Section 2**: How to do Quick Sort Code ??!
    - **Lab & Section 3**: How to do Binary Search Code ??!
    - **Lab & Section 4**: How to do Stack Class ??!
-   - **Lab & Section 5**: How to do print nodes as post traversal in BST ??!
+   - **Lab & Section 5**: How to do print nodes as post traversal in BST tree ??!
+   - **Lab & Section 6**: How to do insert nodes in AVL tree ??!
 
 ---
 
